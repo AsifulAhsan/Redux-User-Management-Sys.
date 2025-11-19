@@ -62,9 +62,9 @@ export default function UserManager() {
   };
 
   return (
-    <div className="py-8 px-4">
+    <div className="py-4 px-4">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-4xl font-bold text-cyan-600 mb-8 text-center">
+        <h1 className="text-4xl font-bold text-cyan-100 mb-8 text-center">
           User Management System
         </h1>
 
